@@ -1,7 +1,7 @@
 # <center>Zhalgas Nurakhmetov</center>
 
 
-### Language and Tools
+### Технологии и фреймворки
 ![Python](https://img.shields.io/badge/-Python-21252b?style=for-the-badge&logo=python)
 ![Django](https://img.shields.io/badge/-Django-21252b?style=for-the-badge&logo=django)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-21252b?style=for-the-badge&logo=FastAPI)
@@ -15,7 +15,12 @@
 ![Aiogram](https://img.shields.io/badge/-Aiogram-21252b?style=for-the-badge&logo=telegram)
 
 
-### Follow me
+### Последние статьи на Medium
+<!-- MEDIUM:START -->
+<!-- MEDIUM:END -->
+
+
+### Социальные сети
 [![Telegram](https://img.shields.io/badge/-Telegram-21252b?style=for-the-badge&logo=telegram)](https://t.me/pleakleeeeeeey)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-21252b?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nurakhmetov-zhalgas/)
 [![Boosty](https://img.shields.io/badge/-Boosty-21252b?style=for-the-badge&logo=boosty)](https://boosty.to/pleakley/)
